@@ -1,0 +1,88 @@
+[33mcommit 19d904be487fd2d3b7294e796d68e9f4cfc5f29f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Rafael Gonçalves Vargas <124538681+rafaelgvargas@users.noreply.github.com>
+Date:   Tue Nov 12 21:48:13 2024 -0300
+
+    Update README.md
+
+[33mcommit ba18a828571436aec51a51de938284714352bd0d[m
+Author: Rafael Gonçalves Vargas <124538681+rafaelgvargas@users.noreply.github.com>
+Date:   Tue Nov 12 21:47:50 2024 -0300
+
+    Create README.md
+    
+    Readme adicionado.
+
+[33mcommit 3607cc24489ff9ae3d4ad18745e9f4caea891fa0[m
+Author: Rafael <Rafaelgvargas@live.com>
+Date:   Tue Nov 12 21:46:45 2024 -0300
+
+    Organizando por pastas
+
+[33mcommit ddb2acae871f7930ff267840604af2378c1bbae3[m
+Merge: 1cbb8f3 a10096a
+Author: Rafael <Rafaelgvargas@live.com>
+Date:   Tue Nov 12 21:43:02 2024 -0300
+
+    Subindo Aulas de testes-automatizados
+
+[33mcommit a10096ad0b685fb37216a46551a4d13a6750f549[m
+Author: Rafael Gonçalves Vargas <124538681+rafaelgvargas@users.noreply.github.com>
+Date:   Tue Nov 12 21:08:31 2024 -0300
+
+    Update README.md
+    
+    Adicionado o README.
+
+[33mcommit c2e56c725fee875aeda3604e81d08993a66f69d3[m
+Author: Rafael Gonçalves Vargas <124538681+rafaelgvargas@users.noreply.github.com>
+Date:   Tue Nov 12 21:05:52 2024 -0300
+
+    Initial commit
+
+[33mcommit 1cbb8f352677e876b31712210220cf049606be1f[m
+Author: Rafael <Rafaelgvargas@live.com>
+Date:   Tue Nov 12 21:01:36 2024 -0300
+
+    configuração do build da aplicação
+
+[33mcommit 18f6151cba804ba33a975b4c2e42eed09ca411dd[m
+Author: Rafael <Rafaelgvargas@live.com>
+Date:   Tue Nov 12 20:49:30 2024 -0300
+
+    implementação da função divisao com testes
+
+[33mcommit 7c44c1a87b3ed289c8b3c0e18b809277896a22b5[m
+Author: Rafael <Rafaelgvargas@live.com>
+Date:   Tue Nov 12 20:48:59 2024 -0300
+
+    implementação da função multiplicação com testes
+
+[33mcommit 054909bb80d402082b933981756887635eef13bb[m
+Author: Rafael <Rafaelgvargas@live.com>
+Date:   Tue Nov 12 20:37:27 2024 -0300
+
+    implementação da função subtração com testes
+
+[33mcommit 4ff986d4a7633716eb6f8dba5e0e17137d945dc8[m
+Author: Rafael <Rafaelgvargas@live.com>
+Date:   Tue Nov 12 20:29:39 2024 -0300
+
+    configuração do typescript
+
+[33mcommit 35aea3d6c57d2391b790436b563931dd1c10385b[m
+Author: Rafael <Rafaelgvargas@live.com>
+Date:   Tue Nov 12 20:15:16 2024 -0300
+
+    implementação do describe nos testes de soma
+
+[33mcommit b3d5759961d5fe8962f6936b62d626f1e1446076[m
+Author: Rafael <Rafaelgvargas@live.com>
+Date:   Tue Nov 12 19:55:45 2024 -0300
+
+    configuração do script do jest
+
+[33mcommit 64e90a256cd67930e37b8818a78a69c77f3e0006[m
+Author: Rafael <Rafaelgvargas@live.com>
+Date:   Tue Nov 12 19:44:14 2024 -0300
+
+    commit inicial
