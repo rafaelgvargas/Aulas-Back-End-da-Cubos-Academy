@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "dev": "ts-node src/servidor.ts"
+    "dev": "ts-node src/servidor.ts",
+    "start": "node dist/servidor.js"
   },
   "keywords": [],
   "author": "",
