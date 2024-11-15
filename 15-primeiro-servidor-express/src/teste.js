@@ -1,3 +1,6 @@
-// process acessar variaveis de ambiente
-console.log(process.env)
+import 'dotenv/config';
+
+console.log(process.env.EMAIL);
+console.log(process.env.SENHA);
+console.log(process.env.NOME);
 
