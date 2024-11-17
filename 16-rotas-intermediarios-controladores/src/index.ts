@@ -1,3 +1,4 @@
+import { Query } from './../node_modules/@types/express-serve-static-core/index.d';
 import express from "express"
 import 'dotenv/config'
 
@@ -15,8 +16,10 @@ const pessoas = [
 ]
 
 servidor.get('/usuarios/:email', (req: any, res: any) => {
-    const { email } = req.params 
-
+    const { email } = req.Query
+    if (!email) {
+        return res.send('parâmetro email não informado')
+    }
     const pessoa = pessoas.find((item) => {
         return item.email === email
     })
@@ -25,7 +28,7 @@ servidor.get('/usuarios/:email', (req: any, res: any) => {
         return res.send('Usuário não encontrado')
     }
 
-    res.send(pessoa)
+    res.send('OK!')
 })
 
 servidor.listen(process.env.PORT)
